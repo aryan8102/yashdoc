@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701105917319",
+    "firebase_url": "https://doctorsearch-27f27-default-rtdb.firebaseio.com",
+    "project_id": "doctorsearch-27f27",
+    "storage_bucket": "doctorsearch-27f27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701105917319:android:c422cf35e5f6b37a4b9722",
+        "android_client_info": {
+          "package_name": "com.company.Doctorsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701105917319-fhgsteblaavps9hun7up1aid4ujr5hod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEdvq1GxMUF_v5-Tgox4uHiIxJos1ZgBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701105917319-fhgsteblaavps9hun7up1aid4ujr5hod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
